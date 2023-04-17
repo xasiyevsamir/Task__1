@@ -54,7 +54,7 @@ namespace Task__1
             //    if (reqem == 1)
             //    {
             //        Console.WriteLine("4 reqemli eded verilib.");
-            //        Console.WriteLine("Bu ededin eveline 7 reqemini , axirinada 8 reqemini artir.");
+            //        Console.WriteLine("Bu ededin eveline 7 reqemini , axirinada 8 reqemini artir.")
             //        Console.Write("Isdenilen ededi daxil et --->>");
             //        double daxil = double.Parse(7 + Console.ReadLine() + 8);
             //        Console.WriteLine();
