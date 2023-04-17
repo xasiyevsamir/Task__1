@@ -27,7 +27,7 @@ namespace Task__1
                     break;
                 case 9: Solutions.Task9("Taskin serti--> 3 dene 6 reqemli eded verilib. Her birinin 10 faizini tapib neticeleri topla. Alinan cavabin 10% tap.");
                     break;
-                case 10:Solutions.Task10("Taskin serti--> 3 dene 4 reqemli eded verilib.  I ededin 1%-ni, II ededin 2% , III ededin 3 % tap. Neticeleri bir birinden cix. Alinan cavabin ustune III ededin 7% faizini gellllll");
+                case 10:Solutions.Task10("Taskin serti--> 3 dene 4 reqemli eded verilib.  I ededin 1%-ni, II ededin 2% , III ededin 3 % tap. Neticeleri bir birinden cix. Alinan cavabin ustune III ededin 7% faizini gel.");
                     break;
             }           
         }
